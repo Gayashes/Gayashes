@@ -1,4 +1,6 @@
-![](gif.mov)
+<div id="header" align="center">
+  <img src="sticker2.webp" width="100"/>
+</div>
 
 - 👋 Hi, I’m @Gayashes
 - 👀 I’m interested in ...
