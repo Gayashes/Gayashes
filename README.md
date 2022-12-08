@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="sticker2.webp" width="250"/>
+  <img src="sticker2.webp" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.instagram.com/gayashess/">
